@@ -1,0 +1,16 @@
+@media only screen and (max-width: 768px){
+	.navbar-brand{width: 100px;}
+}
+.centrar{text-align: center;}
+.bgPrimario{background-color: rgb(255, 213, 213);}
+@media only screen and (max-width: 1024px){
+	.navbar-collapse {
+		justify-content: flex-end;
+	}
+}
+
+div.offcanvas-body {
+
+	background-color: black;
+}
+
